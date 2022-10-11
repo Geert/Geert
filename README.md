@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Geert
+- 👀 I’m interested in Dynamics 365 Business Central AL Development 
+- 🌱 I’m currently learning by reading https://tldr.tech/ and https://console.substack.com/
+- 💞️ I’m sharing Spotify playlists that reflect tracks currently playing on radio https://geert.link/radio
+- 📫 How to reach me: Through teams g.rozendom@newminds.nl
+- ☕ Buy me a coffee: https://www.buymeacoffee.com/geert
+- 👷‍♂️ Working at @newminds and @axelio
