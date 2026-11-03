@@ -1,7 +1,15 @@
-From a young age, my curiosity about how things work has shaped who I am. Since 1992, I have been active as an entrepreneur in the IT world, and for the past 20 years, I’ve proudly held the role of co‑founder and CTO at Newminds.
+<a href="https://bvgeert.com"><img src="banner.jpg" alt="One person. A factory behind it. bvgeert.com" width="100%"></a>
 
-My passion lies in applying the right technology to solve challenges. This dedication has led me to specialize in areas such as innovative field service solutions with SPATIO, efficient agricultural administration systems with AGRIO, and flexible cloud services through Newminds Systems—solid products and services I’m genuinely proud of!
+### Hi, I'm Geert. Also known as BVGeert.
 
-Through Newminds, I’ve built long‑lasting relationships with clients across various sectors. Since 2022, as part of the Axelio Group, I’ve been leveraging expertise in ERP, CRM, BI, Cloud, Infrastructure, and AI to continue innovating.
+Entrepreneur since 22. For twenty years I built Newminds, until its sale to Axelio. Since 2025 I work fully on AI.
 
-Curious about my technical vision or want to learn how I make a difference? Feel free to get in touch for an introductory meeting!
+AI makes it possible to be a company on your own. That's BVGeert. With my Appfabriek, good ideas become working products, and keep running.
+
+I help leadership teams and founders decide what AI should do for them, guide them along the way, and build and run the apps that come out of it.
+
+- **AI strategy**: where AI really adds value in your organisation, what comes first and what can wait. At management level, without the hype.
+- **Coaching**: from the first step to a habit of your own, while you build AI into your work and company.
+- **Apps, built and run**: apps built by AI and supported by AI, through the [Appfabriek](https://appfabriek.com).
+
+**[bvgeert.com ⟶](https://bvgeert.com)** · [appfabriek.com](https://appfabriek.com) · [LinkedIn](https://www.linkedin.com/in/rozendom/) · [X](https://x.com/bvgeert)
